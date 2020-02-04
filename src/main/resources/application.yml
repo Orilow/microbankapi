@@ -34,9 +34,9 @@ spring:
     database: postgresql
 
   datasource:
-    url: jdbc:postgresql://dumbo.db.elephantsql.com:5432/eejbbejh
-    username: eejbbejh
-    password: 2tqlo2_7ZyNR3UqgHZ4ukLU-T8tHzldU
+    url: jdbc:postgresql://rogue.db.elephantsql.com:5432/louqpnhj
+    username: louqpnhj
+    password: pABbRLAaH6VzXzH8I-U2y25QGtf_BxdO
     driverClassName: org.postgresql.Driver
     hikari:
       minimum-idle: 1
